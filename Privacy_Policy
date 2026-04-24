@@ -1,12 +1,12 @@
-Age of Bronze Gods — Privacy Policy
+🔒 WorldWeaver — Privacy Policy (FINAL HARDENED VERSION)
 
 Last Updated: April 2026
 
 IMPORTANT NOTICE
 
-This Privacy Policy explains how Age of Bronze Gods (“the Service”) collects, uses, stores, and discloses information.
+This Privacy Policy explains how WorldWeaver (“the Service”) collects, uses, stores, and discloses information.
 
-By using the Service, you acknowledge and agree to this Policy.
+By accessing or using the Service, you acknowledge and agree to this Policy.
 
 If you do not agree, do not use the Service.
 
@@ -14,125 +14,127 @@ If you do not agree, do not use the Service.
 
 This Policy applies to all interactions with:
 
-The Age of Bronze Gods Discord bot
+The WorldWeaver Discord bot
 Associated Discord servers
 Systems used to operate the Service
 
-The Service operates on infrastructure provided by Discord, which has its own independent privacy practices.
+The Service operates on infrastructure provided by Discord, which maintains its own independent privacy practices.
 
 2. Information Collected
 
-The Service may collect:
+The Service may collect and store the following categories of information:
 
 2.1 Account Data
 Discord user ID
-Username / display name
+Username and display name
 2.2 Content & Inputs
 Messages sent to the bot
-Commands and prompts
-User-generated content
+Commands, prompts, and interactions
+User-generated content (e.g., roleplay text, character data)
 2.3 Gameplay Data
-Characters and progression
-Inventory and stats
-Game history
+Character progress and game state
+Inventory, stats, and outcomes
+Interaction history within the Service
 2.4 Technical & Usage Data
-Interaction frequency
+Interaction frequency and patterns
 Gameplay behavior
-System logs related to performance and security
+System and security logs
 3. Legal Basis for Processing
 
 Information is processed based on:
 
-Performance of a service (running the game)
+Performance of a service (operating the game and responding to inputs)
 Legitimate interests (security, abuse prevention, system integrity)
-User consent (continued use of the Service)
+User consent (continued voluntary use of the Service)
 4. How Information Is Used
 
-Data may be used to:
+Collected information may be used to:
 
 Operate and maintain the Service
-Process gameplay actions
-Store and retrieve progress
-Improve system performance
-Detect abuse or exploits
-Ensure security and stability
+Process gameplay actions and interactions
+Store and retrieve user progress
+Improve system performance and stability
+Detect abuse, exploits, or violations
+Maintain security and integrity
 5. Data Storage & Retention
 Data is stored on systems controlled by the Operator
-Data is retained only as long as reasonably necessary, including:
+Data is retained only as long as reasonably necessary, including for:
 Active gameplay use
-System integrity and debugging
+System functionality and debugging
 Security and abuse prevention
 
 The Operator may:
 
-Delete inactive data
-Retain limited logs for security purposes
+Delete inactive or unnecessary data
+Retain limited logs for security and operational purposes
 6. Data Sharing
 
-The Operator does not sell personal data.
+The Operator does not sell, rent, or trade personal data.
 
-Data may be disclosed:
+Data may be disclosed only:
 
-To comply with legal obligations
-To protect the Service, users, or Operator
-To investigate abuse or security incidents
-To limited service providers (e.g., hosting/backups), if applicable
+To comply with legal obligations or lawful requests
+To protect the Service, its users, or the Operator
+To investigate or prevent abuse, fraud, or security issues
+To limited service providers (e.g., hosting or backup services), where applicable
 
-No guarantee is made that disclosure will never occur under legal compulsion.
+No guarantee is made that data will never be disclosed under legal compulsion.
 
 7. Data Security
 
-Reasonable safeguards are used; however:
+Reasonable safeguards are implemented; however:
 
 No system is completely secure
-Unauthorized access or data loss may occur
+Unauthorized access, data breaches, or loss may occur
 
-You acknowledge that data is provided at your own risk, and the Operator is not liable for breaches or unauthorized access.
+By using the Service, you acknowledge that:
 
+Data is provided at your own risk
+The Operator is not liable for unauthorized access, breaches, or data loss
 8. Data Deletion
 
-You may request deletion of your data.
+You may request deletion of your data:
 
-Requests must be made via Discord contact
+Requests must be made via Discord contact with the Operator
 Verification may be required
-Requests are processed within 30 days where feasible
+Requests will be processed within 30 days where feasible
 Limitations
 
 Deletion may be limited where:
 
-Data exists in backups
-Retention is required for security or legal reasons
+Data exists in backups or logs
+Retention is required for legal or security purposes
 Removal would impair system integrity
 
-Deletion may result in permanent loss of all gameplay data.
+Deletion may result in permanent and irreversible loss of all gameplay data.
 
 9. Third-Party Services
 
 The Service relies on Discord.
 
-The Operator is not responsible for third-party:
+The Operator does not control and is not responsible for:
 
-Data practices
-Storage
-Security
+Third-party data collection or storage
+Platform-level logging or tracking
+Third-party security practices
 
-Users should review third-party policies separately.
+Users should review third-party policies independently.
 
 10. AI Processing
 
-User inputs may be processed by AI systems.
+User inputs may be processed by AI systems to generate gameplay content.
 
-You acknowledge:
+You acknowledge that:
 
-Inputs are used to generate outputs
-Outputs may reflect user content
-AI behavior is not guaranteed
+Inputs may be stored and used to generate outputs
+Outputs may incorporate or reflect user-provided content
+AI behavior may be unpredictable or inconsistent
 
 User data is not used to train external AI models unless explicitly stated.
 
 11. Children’s Privacy
 
-The Service is not directed to users under 13.
+The Service is not directed to users under the age of 13.
 
 If such data is identified, reasonable steps may be taken to remove it.
 
@@ -140,7 +142,7 @@ If such data is identified, reasonable steps may be taken to remove it.
 
 The Service is operated from the United States.
 
-It is not specifically designed to meet regulatory frameworks such as:
+It is not specifically designed to comply with international regulatory frameworks such as:
 
 General Data Protection Regulation
 California Consumer Privacy Act
@@ -156,14 +158,14 @@ Complete
 Available
 Unmodified
 
-Data may be changed, lost, or deleted at any time.
+Data may be altered, lost, or deleted at any time.
 
 14. Limited Privacy Expectation
 
-While data is handled as described:
+While the Operator limits data use as described:
 
 Absolute privacy cannot be guaranteed
-Data may be reviewed for moderation, security, or system operation
+Data may be reviewed for moderation, security, or operational purposes
 15. Breach Response
 
 In the event of a known data breach affecting stored information, the Operator may take reasonable steps to address the issue and, where appropriate, provide notice through available communication channels.
@@ -175,8 +177,12 @@ User rights regarding their data:
 Are limited to those required by applicable law
 May be subject to technical and operational limitations
 Do not extend beyond what is reasonably feasible for a non-commercial service
-17. Changes to Policy
+17. Changes to This Policy
 
 This Policy may be updated at any time.
 
-Continued use constitutes acceptance of changes.
+Continued use of the Service constitutes acceptance of changes.
+
+18. Contact
+
+For questions or data requests, contact the Operator via Discord (server owner or designated moderator).
