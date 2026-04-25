@@ -1,4 +1,4 @@
-🔒 WorldWeaver — Privacy Policy
+🔒 WorldWeaver — Privacy Policy (FINAL DISCORD-COMPLIANT VERSION)
 
 Last Updated: April 2026
 
@@ -22,7 +22,7 @@ The Service operates on infrastructure provided by Discord, which maintains its 
 
 2. Information Collected
 
-The Service may collect and store the following categories of information:
+The Service may collect and store:
 
 2.1 Account Data
 Discord user ID
@@ -36,120 +36,136 @@ Character progress and game state
 Inventory, stats, and outcomes
 Interaction history within the Service
 2.4 Technical & Usage Data
-Interaction frequency and patterns
+Interaction patterns and frequency
 Gameplay behavior
 System and security logs
 3. Legal Basis for Processing
 
 Information is processed based on:
 
-Performance of a service (operating the game and responding to inputs)
+Performance of a service (operating the game)
 Legitimate interests (security, abuse prevention, system integrity)
-User consent (continued voluntary use of the Service)
+User consent (voluntary interaction with the Service)
 4. How Information Is Used
 
-Collected information may be used to:
+Information may be used to:
 
 Operate and maintain the Service
-Process gameplay actions and interactions
+Process gameplay interactions
 Store and retrieve user progress
 Improve system performance and stability
 Detect abuse, exploits, or violations
 Maintain security and integrity
-5. Data Storage & Retention
-Data is stored on systems controlled by the Operator
-Data is retained only as long as reasonably necessary, including for:
-Active gameplay use
-System functionality and debugging
-Security and abuse prevention
+5. API Data Usage & Restrictions
 
-The Operator may:
+Data obtained through Discord APIs (“API Data”) is:
 
-Delete inactive or unnecessary data
-Retain limited logs for security and operational purposes
-6. Data Sharing
+Used solely to operate and provide the functionality of the Service
+Not used for unrelated purposes, advertising, or resale
 
-The Operator does not sell, rent, or trade personal data.
+The Service does not:
 
-Data may be disclosed only:
+Profile users or infer relationships
+Share API Data with data brokers, advertisers, or marketing services
+Sell, license, or commercialize API Data
+No Scraping
 
-To comply with legal obligations or lawful requests
-To protect the Service, its users, or the Operator
-To investigate or prevent abuse, fraud, or security issues
-To limited service providers (e.g., hosting or backup services), where applicable
+The Service does not scrape or collect data outside of authorized API access.
 
-No guarantee is made that data will never be disclosed under legal compulsion.
-
-7. Data Security
-
-Reasonable safeguards are implemented; however:
-
-No system is completely secure
-Unauthorized access, data breaches, or loss may occur
-
-By using the Service, you acknowledge that:
-
-Data is provided at your own risk
-The Operator is not liable for unauthorized access, breaches, or data loss
-8. Data Deletion
-
-You may request deletion of your data:
-
-Requests must be made via Discord contact with the Operator
-Verification may be required
-Requests will be processed within 30 days where feasible
-Limitations
-
-Deletion may be limited where:
-
-Data exists in backups or logs
-Retention is required for legal or security purposes
-Removal would impair system integrity
-
-Deletion may result in permanent and irreversible loss of all gameplay data.
-
-9. Third-Party Services
-
-The Service relies on Discord.
-
-The Operator does not control and is not responsible for:
-
-Third-party data collection or storage
-Platform-level logging or tracking
-Third-party security practices
-
-Users should review third-party policies independently.
-
-10. AI Processing
+6. AI Processing & Restrictions
 
 User inputs may be processed by AI systems to generate gameplay content.
 
 You acknowledge that:
 
 Inputs may be stored and used to generate outputs
-Outputs may incorporate or reflect user-provided content
-AI behavior may be unpredictable or inconsistent
+Outputs may reflect user-provided content
+AI behavior may be unpredictable
+AI Training Restriction
 
-User data is not used to train external AI models unless explicitly stated.
+User messages and content obtained through Discord APIs are not used to train machine learning or AI models, except where explicitly permitted by Discord.
 
-11. Children’s Privacy
+7. User Consent
 
-The Service is not directed to users under the age of 13.
+Data is collected only through user-initiated interaction with the Service.
+
+The Service does not collect data without user action or awareness.
+
+8. Data Storage & Retention
+Data is stored on systems controlled by the Operator
+Data is retained only as long as reasonably necessary for:
+Active gameplay
+System functionality
+Security and abuse prevention
+
+The Operator may:
+
+Delete inactive data
+Retain limited logs for security purposes
+9. Data Sharing
+
+The Operator does not sell, rent, or trade personal data.
+
+Data may be disclosed only:
+
+To comply with legal obligations
+To protect the Service, users, or Operator
+To investigate abuse or security issues
+To limited service providers (e.g., hosting or backup services), where necessary
+
+The Service does not share data with advertising networks, marketing services, or data brokers.
+
+10. Data Security
+
+Reasonable safeguards are implemented; however:
+
+No system is completely secure
+Unauthorized access or data loss may occur
+
+You acknowledge that data is provided at your own risk, and the Operator is not liable for breaches or unauthorized access.
+
+11. Data Deletion
+
+You may request deletion of your data:
+
+Via Discord contact with the Operator
+Verification may be required
+Requests processed within 30 days where feasible
+Limitations
+
+Deletion may be limited where:
+
+Data exists in backups or logs
+Retention is required for legal or security purposes
+Removal would impair system functionality
+
+Deletion may result in permanent loss of gameplay data.
+
+12. Third-Party Services
+
+The Service relies on Discord.
+
+The Operator is not responsible for:
+
+Third-party data collection
+Platform-level storage or logging
+External security practices
+
+Users should review third-party policies independently.
+
+13. Children’s Privacy
+
+The Service is not directed to users under 13.
 
 If such data is identified, reasonable steps may be taken to remove it.
 
-12. International Use
+14. International Use
 
 The Service is operated from the United States.
 
-It is not specifically designed to comply with international regulatory frameworks such as:
-
-General Data Protection Regulation
-California Consumer Privacy Act
-
 Users access the Service at their own initiative and are responsible for compliance with local laws.
 
-13. Data Integrity Disclaimer
+15. Data Integrity Disclaimer
 
 The Operator does not guarantee that stored data will be:
 
@@ -160,29 +176,31 @@ Unmodified
 
 Data may be altered, lost, or deleted at any time.
 
-14. Limited Privacy Expectation
+16. Limited Privacy Expectation
 
-While the Operator limits data use as described:
+While data is handled as described:
 
 Absolute privacy cannot be guaranteed
 Data may be reviewed for moderation, security, or operational purposes
-15. Breach Response
+17. Breach Response
 
-In the event of a known data breach affecting stored information, the Operator may take reasonable steps to address the issue and, where appropriate, provide notice through available communication channels.
+In the event of a known data breach, the Operator will take reasonable steps to:
 
-16. User Rights
+Investigate and mitigate the issue
+Provide notice where appropriate
+Notify Discord if required
+18. User Rights
 
-User rights regarding their data:
+User rights regarding data:
 
 Are limited to those required by applicable law
 May be subject to technical and operational limitations
-Do not extend beyond what is reasonably feasible for a non-commercial service
-17. Changes to This Policy
+19. Changes to This Policy
 
 This Policy may be updated at any time.
 
-Continued use of the Service constitutes acceptance of changes.
+Continued use constitutes acceptance of changes.
 
-18. Contact
+20. Contact
 
-For questions or data requests, contact the Operator via Discord (server owner or designated moderator).
+For questions, reports, or data requests, contact the Operator via Discord (server owner or designated support channel).
