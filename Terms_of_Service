@@ -1,4 +1,4 @@
-📜 WorldWeaver — Terms of Service (FINAL DISCORD-COMPLIANT VERSION)
+📜 WorldWeaver — Terms of Service
 
 Last Updated: April 2026
 
@@ -35,7 +35,7 @@ Be at least 13 years old under Discord Terms
 Have parental or guardian consent if under 18
 Not be prohibited from using the Service under applicable law
 
-By using the Service, you represent and warrant that you meet these requirements.
+By using the Service, you represent and warrant compliance.
 
 3. Electronic Acceptance
 
@@ -47,227 +47,214 @@ You agree to comply with all applicable:
 
 Discord Terms of Service
 Discord Community Guidelines
-Discord Developer Policies
+Discord Developer Terms of Service
+Discord Developer Policy
 
-Use of the Service in violation of Discord policies is strictly prohibited.
+Use of the Service in violation of these policies is strictly prohibited.
 
-5. No Warranty
+5. Platform Compliance & User Protections
+5.1 User Authorization
 
-To the fullest extent permitted by law, the Service is provided without warranties of any kind, including:
+The Service does not take actions on behalf of users or servers without explicit user initiation or permission.
 
-Merchantability
-Fitness for a particular purpose
-Non-infringement
-Accuracy or reliability
+5.2 No Unsolicited Messaging
 
-Use of the Service is entirely at your own risk.
+The Service does not send unsolicited direct messages or communications.
 
-6. Limitation of Liability
+All interactions occur through user-initiated actions.
 
-To the maximum extent permitted by law, the Operator shall not be liable for any damages, including:
+5.3 Credential Safety
 
-Loss of data, characters, items, or progress
+The Service will never request or collect Discord passwords, tokens, or login credentials.
+
+5.4 No Advertising or Marketing Use
+
+The Service does not use user data or interactions for advertising or unrelated promotional purposes.
+
+5.5 User Reporting
+
+Users may report issues, abuse, or concerns via Discord contact with the Operator. Reports will be reviewed and appropriate action may be taken.
+
+5.6 User Control
+
+Users and server administrators may remove or restrict the Service at any time. Such actions will be respected.
+
+5.7 Content Safety
+
+The Service does not permit the generation or distribution of illegal, harmful, or prohibited content in violation of Discord policies.
+
+6. No Warranty
+
+To the fullest extent permitted by law, the Service is provided without warranties of any kind.
+
+Use is entirely at your own risk.
+
+7. Limitation of Liability
+
+To the maximum extent permitted by law, the Operator is not liable for:
+
+Data loss
 AI-generated content
-User conduct
-Service outages or failures
-
-Including direct, indirect, incidental, consequential, and punitive damages.
-
+User behavior
+Service outages
 Liability Cap
 
-If liability cannot be excluded, it shall not exceed the greater of:
+Greater of:
 
-$100 USD, or
-The minimum amount required by applicable law
-7. No Reliance
+$100 USD
+Minimum required by law
+8. No Reliance
 
-You agree that you do not rely on any content, output, or information from the Service for real-world decisions.
+You agree not to rely on the Service for real-world decisions.
 
-8. User Conduct
+9. User Conduct
 
 You agree not to:
 
 Exploit or manipulate the Service
-Reverse engineer or interfere with systems
-Harass or harm others
-Submit illegal or prohibited content
-Use automation, scripts, or bots
-Attempt to manipulate AI outputs in harmful ways
-Engage in real-money trading of in-game assets
+Reverse engineer systems
+Harass others
+Use automation/scripts
 Access unauthorized data
-Interfere with or exceed Discord API limits or safeguards
+Interfere with Discord API limits
 
-Violations may result in immediate termination without notice or appeal.
+Violations may result in termination without notice.
 
-9. Account Responsibility
+10. Account Responsibility
 
-You are solely responsible for all activity conducted through your account and for maintaining the security of your Discord account.
+You are responsible for all activity under your Discord account.
 
-10. Intellectual Property
+11. Intellectual Property
 
-All game systems, mechanics, and code are owned by the Operator.
+All systems belong to the Operator.
 
-You retain ownership of your content but grant the Operator a perpetual, irrevocable, worldwide, royalty-free license to use, reproduce, modify, and display your content within the Service.
+You grant a perpetual, irrevocable, worldwide, royalty-free license for your submitted content.
 
-You represent that you have all necessary rights to provide any content submitted to the Service.
+You represent you have rights to submit such content.
 
-11. Virtual Items & Data
+12. Virtual Items & Data
 
-All in-game items, characters, and data:
+All game items and data:
 
-Are revocable licenses
+Are revocable
 Have no real-world value
-Do not constitute property or ownership
-12. API Data Usage
+Are not owned property
+13. API Data Usage & Restrictions
 
-Data obtained through Discord APIs (“API Data”) will:
+API Data is:
 
-Be used solely to operate the Service
-Not be sold or used for unrelated purposes
+Used only to operate the Service
+Not sold or commercialized
+
+The Service does not:
+
+Profile users or relationships
+Sell or share API Data with advertisers or data brokers
+Use API Data for unrelated purposes
+AI Restriction
+
+Message content is not used to train AI models, unless explicitly permitted by Discord.
+
+No Scraping
+
+The Service does not scrape or mine Discord data outside authorized API use.
+
+Deletion
 
 API Data will be deleted when:
 
-No longer required for functionality
-A user requests deletion
-The Service is discontinued
-Required by applicable law or Discord policy
-13. Data & Privacy
+No longer necessary
+Requested by a user
+Required by law or Discord
+14. Data & Privacy
 
 The Service may collect:
 
-Discord user ID and username
-Messages sent to the bot
+Discord ID and username
+Messages to the bot
 Gameplay data
-Behavioral interaction data
+Security
 
-Data is:
+Reasonable safeguards are used, but no system is fully secure.
 
-Stored on privately controlled systems
-Not sold or used for advertising
-Security Measures
-
-The Operator implements reasonable administrative, technical, and physical safeguards to protect data.
-
-However:
-
-Absolute security cannot be guaranteed
-The Operator is not liable for breaches or unauthorized access
-Data Deletion
+Deletion
 
 Users may request deletion via Discord contact.
-Requests will be processed within 30 days where feasible.
 
-The Operator will comply with applicable data protection laws to the extent required.
+The Operator will comply with applicable data protection laws where required.
 
-14. AI-Generated Content
+15. AI-Generated Content
 
-The Service uses AI systems.
+AI outputs may be:
 
-You acknowledge that:
+Inaccurate
+Unpredictable
 
-Outputs may be inaccurate, offensive, or unpredictable
-Content does not reflect the Operator’s views
-The Operator is not responsible for AI-generated content
-15. Moderation & Termination
+The Operator is not responsible for AI-generated content.
 
-The Operator may take action at their sole discretion, including:
+16. Moderation & Termination
 
-Removing users
-Resetting or deleting data
-Reversing outcomes
+The Operator may:
 
-These actions may be taken for:
-
-Rule violations
-Risk mitigation
-Maintaining system integrity
+Remove users
+Reset or delete data
+Reverse outcomes
 
 All decisions are final.
 
-16. No Expectation of Continuity
+17. No Expectation of Continuity
 
-You acknowledge that:
+The Service may shut down at any time.
+No compensation will be provided.
 
-The Service may be discontinued at any time
-Data may be permanently lost
-No compensation or restoration will be provided
-
-You have no ownership interest in any part of the Service.
-
-17. Third-Party Services
+18. Third-Party Services
 
 The Service operates on Discord.
 
-The Operator is not responsible for third-party outages, policies, or enforcement.
+The Operator is not responsible for third-party systems.
 
-18. Force Majeure
+19. Force Majeure
 
-The Operator is not liable for failure or delay due to events beyond reasonable control, including outages, cyberattacks, natural disasters, or third-party failures.
+The Operator is not liable for events beyond control.
 
-19. Governing Law
+20. Governing Law
 
-These Terms are governed by the laws of the State of Hawaii.
+Governed by laws of Hawaii.
 
-20. Dispute Resolution
-20.1 Informal Resolution
+21. Dispute Resolution
+Arbitration via American Arbitration Association
+No class actions
+No jury trials
+1-year claim limit
+22. Indemnification
 
-You agree to attempt informal resolution for 30 days before initiating a claim.
+You agree to indemnify the Operator against claims arising from your use or violations.
 
-20.2 Binding Arbitration
+23. Assignment
 
-All disputes shall be resolved through binding arbitration under the rules of the American Arbitration Association.
+Operator may transfer Terms.
+Users may not.
 
-20.3 Class Action Waiver
+24. Entire Agreement
 
-You waive any right to participate in class, collective, or representative actions.
+These Terms are the full agreement.
 
-20.4 Jury Trial Waiver
+25. Severability
 
-You waive any right to a jury trial.
+Invalid clauses do not affect others.
 
-20.5 Statute of Limitations
+26. Waiver
 
-Any claim must be brought within one (1) year or is permanently barred.
+Failure to enforce ≠ waiver.
 
-20.6 Injunctive Relief
+27. Changes to Terms
 
-The Operator may seek court relief for intellectual property or abuse-related matters.
+Continued use = acceptance of updates.
 
-20.7 Opt-Out
+28. Contact
 
-You may opt out of arbitration within 30 days of first use.
+Users may contact the Operator via Discord for:
 
-21. Indemnification
-
-You agree to defend, indemnify, and hold harmless the Operator from any claims arising from:
-
-Your use of the Service
-Your violation of these Terms
-Your content or behavior
-22. Assignment
-
-The Operator may assign or transfer these Terms at any time.
-Users may not assign their rights.
-
-23. Entire Agreement
-
-These Terms constitute the entire agreement between you and the Operator.
-
-24. Severability
-
-If any provision is found invalid, the remaining provisions remain enforceable.
-
-25. Waiver
-
-Failure to enforce any provision does not waive future enforcement.
-
-26. Changes to Terms
-
-Continued use of the Service constitutes acceptance of updated Terms.
-
-27. Contact
-
-Users may contact the Operator via Discord direct message or designated support channel for:
-
-Data deletion requests
-Questions or concerns
+Data deletion
+Reports
+Support
